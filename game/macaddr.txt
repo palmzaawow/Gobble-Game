@@ -1,0 +1,5 @@
+main 80:7D:3A:DB:F2:9C
+red(left) 80:7D:3A:DC:03:8C
+blue(right) 80:7D:3A:DB:E2:D4
+6930394491
+ 
